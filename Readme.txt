@@ -1,0 +1,1 @@
+Tested On Wildfly 8.2
